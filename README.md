@@ -1,1 +1,1 @@
-# Open these files in Google Colaboratory
+# Open file in Google Colaboratory
